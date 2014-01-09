@@ -76,7 +76,7 @@
                             
                             <div class="content-half">
                                 <div class="meta-box">
-                                    <h3> <a href="blog-single-image.html"><?php echo $blog_title[$index]->blog_title ?></a> </h3>
+                                    <h3> <a href="<?php echo base_url(); ?>index.php/blog_page_controller?no=<?php echo $no[$index]->no; ?>"><?php echo $blog_title[$index]->blog_title ?></a> </h3>
                                     <div class="meta-more">
                                         <span><i class="icon-user"></i> <a href="#"><?php echo $auther_name[$index]->auther_name ?></a></span>
                                         <span><i class="icon-time"></i> <a href="#"><?php echo $post_date[$index]->post_date ?></a></span>

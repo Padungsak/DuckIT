@@ -59,7 +59,7 @@
                             }   
                             else 
                             {
-                                echo '<div class="iframe-thumb fll"><iframe src=' . $blog_data[0]->stuff_link. ' width="100%" height="240"></iframe></div>';
+                                echo '<div class="iframe-thumb"><iframe src="' . $blog_data[0]->stuff_link. '?title=0&amp;byline=0&amp;portrait=0" width="100%" height="380"></iframe></div>';
                             }                     
                             ?>
                             
