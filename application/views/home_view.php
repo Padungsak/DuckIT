@@ -36,14 +36,14 @@
                         <div class="revolution">
                             <ul>
                                 <li data-transition="random" data-slotamount="7" data-masterspeed="300" >
-                                    <img src="<?php echo base_url(); ?>theme/official/images/slides/bg1.jpg" alt="bg11" data-fullwidthcentering="true">
+                                    <img src="<?php echo base_url(); ?>theme/official/images/slides/duckbg.jpg" alt="duckbg" data-fullwidthcentering="true">
                                                                             
                                     <div class="tp-caption lfb"  
                                          data-x="276" 
                                          data-y="162" 
                                          data-speed="400" 
                                          data-start="1000" 
-                                         data-easing="easeOutExpo"  ><img src="<?php echo base_url(); ?>theme/official/images/slides/hand1.png" alt="Image 1"></div>
+                                         data-easing="easeOutExpo"  ><img src="<?php echo base_url(); ?>theme/official/images/slides/duckit.png" alt="Image 1"></div>
                                                     
                                     <div class="tp-caption sfr"  
                                          data-x="159" 
@@ -157,133 +157,7 @@
                                          data-start="6800" 
                                          data-easing="easeInOutExpo"  ><img src="<?php echo base_url(); ?>theme/official/images/slides/slide1-cap17.png" alt="Image 17"></div>
                                 </li><!-- End Slide -->
-                    
-                                <li data-transition="random" data-slotamount="7" data-masterspeed="300" >
-                                            <img src="<?php echo base_url(); ?>theme/official/images/slides/bg2.jpg" alt="bg2" >
-                                                                      
-                                    <div class="tp-caption sfr"  
-                                         data-x="300" 
-                                         data-y="36" 
-                                         data-speed="500" 
-                                         data-start="1500" 
-                                         data-easing="easeInOutExpo"  ><img src="<?php echo base_url(); ?>theme/official/images/slides/slide1-cap1.png" alt="Image 1"></div>
-                                                    
-                                    <div class="tp-caption fade"  
-                                         data-x="313" 
-                                         data-y="38" 
-                                         data-speed="300" 
-                                         data-start="1800" 
-                                         data-easing="easeOutExpo"  ><img src="<?php echo base_url(); ?>theme/official/images/slides/slide2-cap2.png" alt="Image 10"></div>
-                                                    
-                                    <div class="tp-caption medium_text fade"  
-                                         data-x="53" 
-                                         data-y="120" 
-                                         data-speed="300" 
-                                         data-start="2300" 
-                                         data-easing="easeOutExpo"  >What do you think?</div>
-                                                    
-                                    <div class="tp-caption large_text fade"  
-                                         data-x="19" 
-                                         data-y="148" 
-                                         data-speed="300" 
-                                         data-start="2500" 
-                                         data-easing="easeOutExpo"  >To a large business</div>
-                                                    
-                                    <div class="tp-caption medium_text fade"  
-                                         data-x="69" 
-                                         data-y="194" 
-                                         data-speed="300" 
-                                         data-start="2800" 
-                                         data-easing="easeOutExpo"  >You do not know where to start?</div>
-                                                    
-                                    <div class="tp-caption sfl"  
-                                         data-x="517" 
-                                         data-y="34" 
-                                         data-speed="400" 
-                                         data-start="3300" 
-                                         data-easing="easeInOutExpo"  ><img src="<?php echo base_url(); ?>theme/official/images/slides/slide2-cap3.png" alt="Image 11"></div>
-                                                    
-                                    <div class="tp-caption sfl"  
-                                         data-x="518" 
-                                         data-y="36" 
-                                         data-speed="400" 
-                                         data-start="3500" 
-                                         data-easing="easeInOutExpo"  ><img src="<?php echo base_url(); ?>theme/official/images/slides/slide2-cap4.png" alt="Image 12"></div>
-                                                    
-                                    <div class="tp-caption medium_text fade"  
-                                         data-x="597" 
-                                         data-y="194" 
-                                         data-speed="300" 
-                                         data-start="4000" 
-                                         data-easing="easeOutExpo"  >A site with a unique Template</div>
-                                                    
-                                    <div class="tp-caption medium_text fade"  
-                                         data-x="650" 
-                                         data-y="164" 
-                                         data-speed="300" 
-                                         data-start="4200" 
-                                         data-easing="easeOutExpo"  >Responsive HTML5 and CSS3</div>
-                                                    
-                                    <div class="tp-caption large_text fade"  
-                                         data-x="640" 
-                                         data-y="115" 
-                                         data-speed="300" 
-                                         data-start="4400" 
-                                         data-easing="easeOutExpo"  >Official Template</div>
-                                </li><!-- End Slide -->
-                    
-                                <li data-transition="random" data-slotamount="7" data-masterspeed="300" >
-                                            <img src="<?php echo base_url(); ?>theme/official/images/slides/bg3.jpg" alt="bg3" >
-                                                                            
-                                    <div class="tp-caption sfr"  
-                                         data-x="369" 
-                                         data-y="8" 
-                                         data-speed="1000" 
-                                         data-start="1000" 
-                                         data-easing="easeInOutExpo"  ><img src="<?php echo base_url(); ?>theme/official/images/slides/slide3-cap1.png" alt="Image 1"></div>
-                                                    
-                                    <div class="tp-caption large_text sfl"  
-                                         data-x="33" 
-                                         data-y="80" 
-                                         data-speed="400" 
-                                         data-start="1400" 
-                                         data-easing="easeInOutExpo"  >Responsive Design</div>
-                                                    
-                                    <div class="tp-caption large_text randomrotate"  
-                                         data-x="32" 
-                                         data-y="130" 
-                                         data-speed="300" 
-                                         data-start="1700" 
-                                         data-easing="easeInOutExpo"  >&</div>
-                                                    
-                                    <div class="tp-caption large_text sfr"  
-                                         data-x="71" 
-                                         data-y="129" 
-                                         data-speed="400" 
-                                         data-start="2000" 
-                                         data-easing="easeInOutExpo"  >Retina Ready</div>
-                                                    
-                                    <div class="tp-caption medium_text sfl"  
-                                         data-x="38" 
-                                         data-y="198" 
-                                         data-speed="400" 
-                                         data-start="2300" 
-                                         data-easing="easeInOutExpo"  >Phone, Tablet, Desktop</div>
-                                                    
-                                    <div class="tp-caption medium_text sfl"  
-                                         data-x="36" 
-                                         data-y="229" 
-                                         data-speed="400" 
-                                         data-start="2600" 
-                                         data-easing="easeInOutExpo"  >Over 660 Retina Icons</div>
-                                                    
-                                    <div class="tp-caption medium_text sfl"  
-                                         data-x="36" 
-                                         data-y="260" 
-                                         data-speed="400" 
-                                         data-start="2900" 
-                                         data-easing="easeInOutExpo"  >+500 Google Fonts</div>
-                                </li><!-- End Slide -->
+                                                   
                             </ul><!-- End Slides -->
                             <div class="tp-bannertimer"></div><!-- Timer -->                                        
                         </div>                  

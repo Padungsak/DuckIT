@@ -66,6 +66,12 @@
                                     ?>>
                                        <a href="<?php echo base_url(); ?>index.php/blog_controller">Blog</a>                       
                                     </li>
+                                    <li <?php 
+                                    if ($controller == 'shop')
+                                        echo 'class="current selectedLava"';
+                                    ?>>
+                                       <a href="<?php echo base_url(); ?>index.php/shop_controller">Shop</a>                       
+                                    </li>
 
                                 </ul><!-- end menu -->
                             </nav><!-- end nav -->

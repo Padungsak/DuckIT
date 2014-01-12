@@ -39,6 +39,7 @@ define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 
 define('BLOG_IN_PAGE_NUMBER', 5);
 define('PAGE_NUMBER', 5);
+define('SHOP_IN_PAGE_NUMBER', 5);
 
 /* End of file constants.php */
 /* Location: ./application/config/constants.php */
